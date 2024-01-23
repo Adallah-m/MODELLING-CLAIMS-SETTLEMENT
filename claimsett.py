@@ -1,11 +1,11 @@
 import numpy as np
 
 # Parameters for compound Poisson process
-arrival_rate = 0.1  # Example arrival rate
-mean_claim_size = 5000  # Example mean claim size
+arrival_rate = 0.1  # arrival rate
+mean_claim_size = 5000  # mean claim size
 
 # Parameters for standard Wiener process
-volatility = 0.2  # Example volatility
+volatility = 0.2  # volatility
 
 # Time parameters
 num_periods = 100  # Number of periods to forecast
